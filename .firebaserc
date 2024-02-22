@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "allergendetector-74f51",
+    "allergen": "allergendetector-74f51"
+  },
+  "targets": {},
+  "etags": {}
+}
